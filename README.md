@@ -1,4 +1,4 @@
 - 👋 Hi, I’m I.SUHAS
 - 👀 I’m interested in Coding, Science(Physics).
-- 🌱 I’m currently pursuing B.Tech. in the field of Computer Science and Engineering
+- 🌱 I’m currently pursuing B.Tech. in the field of Computer Science and Engineering at Dr.Ambedkar Institute of Technology, Banglore.
 - 📫 You can reach me using my mail id: suhaspoo24@gmail.com
