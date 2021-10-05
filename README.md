@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @isuhas24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-isuhas24/isuhas24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m I.SUHAS
+- 👀 I’m interested in Coding, Science(Physics).
+- 🌱 I’m currently pursuing B.Tech. in the field of Computer Science and Engineering
+- 📫 You can reach me using my mail id: suhaspoo24@gmail.com
