@@ -2,6 +2,7 @@
 I am a passionate Frontend Developer with around 2 years of experience in building scalable web applications and optimizing digital experiences. My expertise in modern web technologies and AI-driven solutions fuels my drive to create innovative, user-centric platforms.
 
 🧰 Toolbox
+
 Programming Languages: 
 JavaScript TypeScript 
 
